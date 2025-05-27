@@ -1,5 +1,12 @@
 # Updated case for cnc machining
 
+![cnc](004%20IMAGES/IMG_2547.webp)
+![cnc](004%20IMAGES/IMG_2548.webp)
+![cnc](004%20IMAGES/IMG_2549.webp)
+![cnc](004%20IMAGES/IMG_2546.webp)
+
+# Production instructions
+
 To have threads manufactured by JLCPCB, upload the following image along with your order:
 
 ![threads](004%20IMAGES/Alu_Endgame_Threads.jpg)
